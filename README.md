@@ -285,11 +285,9 @@ feedback_system/
 
 - **Project Title:** Smart Feedback & Reward Management System
 - **Program:** Higher National Diploma in Information Technology (HNDIT)
-- **Student Name:** `[Your Full Name]`
-- **Registration / Index No:** `[Your Registration Number]`
-- **Institution:** `[Your Institution / Advanced Technological Institute]`
-- **Academic Year:** `[Year / Batch]`
-- **Supervisor / Evaluator:** `[Supervisor Name]`
+- **Student Name:** Rasika Prabodha
+- **Institution:** Sri Lanka Institute of Advanced Technological Education
+- **Academic Year:** 2324
 
 ---
 
